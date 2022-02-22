@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admonition to Doctor Story beeing condemned of high treason sent to him before his death, but because it came to late to his hands: it is now put in print th[at it ma]y be a warning to all other papists where by they may repent and c[...]r mercy, cleue to his holy woord and liue ac[cording ...] doctrine of the same.</title>
+            <author>Cornet, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1571</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19349</idno>
+            <idno type="STC">STC 5772</idno>
+            <idno type="STC">ESTC S121732</idno>
+            <idno type="EEBO-CITATION">99856900</idno>
+            <idno type="PROQUEST">99856900</idno>
+            <idno type="VID">22542</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 526:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admonition to Doctor Story beeing condemned of high treason sent to him before his death, but because it came to late to his hands: it is now put in print th[at it ma]y be a warning to all other papists where by they may repent and c[...]r mercy, cleue to his holy woord and liue ac[cording ...] doctrine of the same.</title>
+                  <author>Cornet, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>At the long shop adioyning vnto Saint Mildreds Churche in the Pultrie, by Iohn Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1571]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: q[uod] Iohn. Cornet. minister.</note>
+                  <note>Verse - "Bestur your stomp[es] good Story now, ye gallous [..]".</note>
+                  <note>John Story was executed in 1571.</note>
+                  <note>Only known copy mutilated.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Mutilated.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Story, John, 1510?-1571 --  Controversial literature --  Early works to 1800.</term>
+               <term>Story, John, 1510?-1571 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:22542:1"/>
+            <head>An admonition to Doctor Story beeing con<g ref="char:EOLhyphen"/>demned of high Treaſon, ſent to him before his death, but becauſe it came to late to his hands: it is now put in print t<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be a warning to all other papiſts where by they may repent and <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mercy, cleue to his holy woord and liue ac<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Doctrine of the ſame.</head>
+            <lg>
+               <l>BEſtur your ſtompꝭ good Story now, y<hi rend="sup">e</hi> gallous<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>I am ſory you came ſo late, that you muſt hang alone.</l>
+               <l>If you had come but one yéer paſt, co<g ref="char:cmbAbbrStroke">̄</g>pany you migh<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Iohn Felton</hi> &amp; y<hi rend="sup">e</hi> 
+                  <hi>Nortons</hi> bothe, of you would haue béen glad<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Alas what luck had you good man, to bide from hence ſo long<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>And hang behinde your company, no dout you had <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>But ſith Dame <hi>Fortune</hi> ſo dooth frown, and your <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>I ſee that wéeping wil not help, it boots not to be <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Therfore I wiſh you to repent, while you haue time <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Lay holde on Faith in Chriſtes blood, and call to God <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And now prepare your ſelf with ſpéed, to ſail vp Holbou<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>And drinck you of that deadly cup, that you to vs did fil<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>Gods woord muſt néeds be prooued true, which you doo ſt<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ue</l>
+               <l>Such meaſure as your ſelf did giue, ſuch meaſure ſhall you haue. <note place="margin">Math. 6.</note>
+               </l>
+               <l>Remember wel your crueltye, in killing of Gods Saints:</l>
+               <l>whoſe blood for vegean<g ref="char:cmbAbbrStroke">̄</g>ce ſtil dooth cry, &amp; god hearth their co<g ref="char:cmbAbbrStroke">̄</g>plai<g ref="char:cmbAbbrStroke">̄</g>te.</l>
+               <l>&amp; you haue now your iuſt reward, which you haue wel deſerued:</l>
+               <l>Becauſe from God &amp; princes lawes, ſo tratorouſly you ſwarued.</l>
+               <l>As I hear ſay you doo appele, vnto your God the Pope:</l>
+               <l>But his Pardons cannot preuaile, to ſaue you from the rope.</l>
+               <l>Nor yet his Maſſes many folde, they cannot you defend:</l>
+               <l>From Tiburn neither yet from hel, except you doo amend.</l>
+               <l>but whe<g ref="char:cmbAbbrStroke">̄</g> theſe newes are brought to <hi>Rome,</hi> how y<hi rend="sup">t</hi> you are attai<g ref="char:cmbAbbrStroke">̄</g>ted</l>
+               <l>Of high treaſon and hangd therfore, no dout you ſhalbe Sainted.</l>
+               <l>Theſe names &amp; titles ſhall you haue, in <hi>Rome</hi> when you be dead:</l>
+               <l>The Pope no dout wil you inrole, vnder his bulles of lea<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>A Doctor and a Confeſſor, thus ſhall you be extolds:</l>
+               <l>A Martyr and a Saint alſo, but yet a traitor bolds:</l>
+               <l>That day that you hanged ſhal be, it ſhall be holy day:</l>
+               <l>And ſo ordained by the Pope, that men to you may pray.</l>
+               <l>Thus ſhall you be canonized, as Saint as I haue ſaid:</l>
+               <l>Then to be hangd for high treaſon, what néed you be afraid?</l>
+               <l>For you ſhall haue Trentalls great ſtore, of Maſſes ſaid &amp; ſung:</l>
+               <l>And all the belles that be in Roome, for your ſoule ſhal be rung.</l>
+               <l>If ſome good popiſh catholike, of your hart could take holde:</l>
+               <l>And bring it to the Pope in Rome, it ſhould be ſhrinde in golde.</l>
+               <l>Becauſe that in the Popes defence, you dyed ſo bolde and ſtout:</l>
+               <l>If that your ſoule doo go to bel, the Pope wil Maſſe it out. <note place="margin">The popes <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oue<g ref="char:cmbAbbrStroke">̄</g> next houſe to hel.</note>
+               </l>
+               <l>And place you by his owne white ſide, where all y<hi rend="sup">e</hi> ſaints doo dwel</l>
+               <l>In that heauen which him ſelf hath made, not very far from hel.</l>
+               <l>Where you ſhall haue ſuch pleſa<g ref="char:cmbAbbrStroke">̄</g>t ioyes, Maſſe &amp; mattens by note <note place="margin">Theſe are the Popes Saints.</note>
+               </l>
+               <l>Saint <hi>Pluto</hi> there ſings Maſſe him ſelf, in a red ſtrye cote.</l>
+               <l>Saint <hi>Dunſtone</hi> is one of his clarkes, Saint <hi>Hildebrand</hi> another</l>
+               <l>There ſhall you ſée Saint <hi>Dominick,</hi> and S. <hi>Erancis</hi> his brother.</l>
+               <l>Saint Fryer <hi>Foreſt</hi> is the Préeſt, to hear the Saints confeſſion: <note place="margin">Loke in Le<g ref="char:EOLunhyphen"/>gend au<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a and there ſhall you finde what S Remege tras.</note>
+               </l>
+               <l>Saint Fryer <hi>Bacon</hi> beres the Croſſe, before them in <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſſion.</l>
+               <l>There ſhall you méete S. Thomas <hi>Becket,</hi> y<hi rend="sup">t</hi> had the g<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ne</l>
+               <l>And S. Thomas of <hi>Hareford shere,</hi> bothe coſtly brau<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>There ſhall you méete S. <hi>Boniface,</hi> S <hi>Remige</hi> and S. <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Saint <hi>Brigid</hi> and S. <hi>Clare</hi> the Nun, with the holy m<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <note place="margin">Sir Tho<g ref="char:EOLhyphen"/>mas More once Lord chaunceler of Engla<g ref="char:cmbAbbrStroke">̄</g>d.</note>
+               </l>
+               <l>There ſhall you méete S. Cardinall <hi>Poole,</hi> &amp; <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>S. Thomas <hi>More</hi> a traitor ſtout, with the ho<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>There ſhall you ſée that bleſſed Saint, Pope <hi>V<gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Who was the firſt that did inuent, and make <hi>Corps <gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Theſe Saints and y<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, with all the Sl<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>pers ſeue<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <note place="margin">Loke in the Feſtiual for the ſeuen Sleepers.</note>
+               </l>
+               <l>Shall méete you wit<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and welcome you to H<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>And there you ſhall <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing ſtil, from morning v</l>
+               <l>And méete w<hi rend="sup">t</hi> your fam<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r fréends, S. <hi>Edmond</hi> and S. <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <note place="margin">Boner and Gardene<gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+               </l>
+               <l>Saint <hi>Chriſtopher</hi> that late was hangd, at Tiburn you <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>There ſhall you méete S. <hi>Felton</hi> to, with many <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>All theſe Good Saints as I haue ſaid, wil méet <note place="margin">Norton.</note>
+               </l>
+               <l>And did you welcome into Heauen, w<hi rend="sup">t</hi> ioy wh<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>The<g ref="char:cmbAbbrStroke">̄</g> al theſe Angels &amp; theſe Saintꝭ w<hi rend="sup">t</hi> great mirth</l>
+               <l>Vnto the high infernall ſeat, and ſet you next the kin<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>You ſhall be made the chéefeſt Saint, and ſit abooue <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Higher then euer <hi>Dunſtone</hi> was, or any Préeſt of Ba</l>
+               <l>You ſhalbe iudge of all the Saints, and higheſt in C<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ion:</l>
+               <l>Euen as you héer vpon Earth were, to maintain ſuperſtion.</l>
+               <l>But yet I dout you ſhall not ſhape, the Purgatory flame.</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Maſſes and Diriges doo not help, to ſaue you from the ſame,</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f whiche I knowe you ſhall lack none, for many wilbe fain:</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o haue a thouſand for your ſake, to fetch you out again.</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ut you ſhall Maſſes great ſtore haue, in y<hi rend="sup">e</hi> heauen where you go:</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat wil keep you from Purgatory, if that the Pope ſay no.</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hus maiſter Doctor haue I tolde, your ioyes after this life:</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ecauſe with Gods woord &amp; your Prince, you dye ſo far at ſtrife.</l>
+               <l>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>heſe be the ioyes y<hi rend="sup">t</hi> you ſhall haue, in y<hi rend="sup">e</hi> Popes heauen to reign:</l>
+               <l>But in Gods heauen where true ioyes be, no traitor ſhall remain</l>
+               <l>No Papiſt nor Idolater, that doo refuſe gods woord:</l>
+               <l>No worſhipper of Images, ſhall ſtand before the Lord,</l>
+               <l>Nor yet Rebellious Maſſemonger, that dooth his Prince deſpiſe:</l>
+               <l>Againſt all Popiſh blood ſuckers, the Lord wil turn his eyes.</l>
+               <l>No witch nor wicked whoremo<g ref="char:cmbAbbrStroke">̄</g>ger, which your pope dooth defend</l>
+               <l>No Coniurer nor yet ſuch like, to Gods heauen ſhall aſcend.</l>
+               <l>No Buggerers orels yet haudes, in Gods heaue<g ref="char:cmbAbbrStroke">̄</g> ſhal haue place:</l>
+               <l>No Briber nor Simoniack, nor Periurer paſt grace.</l>
+               <l>No ſuperſticious Hereticks, nor mainteners of whores:</l>
+               <l>No Sectaries nor Sodomits, ſhall come within heauen doores.</l>
+               <l>All wilful virgins with their vowes, profeſſing to liue chaſte:</l>
+               <l>That godly mariage doo contemn, from Gods heaue<g ref="char:cmbAbbrStroke">̄</g> ſhall be caſt.</l>
+               <l>And ſuch were all your popiſh Saints, that I before haue named:</l>
+               <l>with all theſe ſinnes moſte horible, the moſte of the<g ref="char:cmbAbbrStroke">̄</g> were blamed</l>
+               <l>But in ſuch filthy ſtincking Saints the Lord hath no delight:</l>
+               <l>And from the toyes celeſtiall, he wil excluds them quite.</l>
+               <l>But theſe Saints that in Gods heauen, ſhall haue their habitatio<g ref="char:cmbAbbrStroke">̄</g>:</l>
+               <l>Who by true faith in Chriſtes blood, doo ſéek their whole ſaluation</l>
+               <l>And ſuch as doo vnfainedly, beléeue Gods holy woord:</l>
+               <l>Whoſe life and good profeſſion, together doo accord.</l>
+               <l>And liue like ſubiects to their prince, obeying godly lawes:</l>
+               <l>Not thus to hang like traitors ſtout, as doo you popiſh dawes.</l>
+               <l>Lo maiſter Doctor theſe be they, whom we good Saints doo call:</l>
+               <l>One of theſe Saints doo pleſe God more, the<g ref="char:cmbAbbrStroke">̄</g> doo y<hi rend="sup">e</hi> popes ſaints all</l>
+               <l>And if you be vnhangd as yet, God graunt you may repent:</l>
+               <l>That you may be one of theſe Saints, of Chriſte omnipotent.</l>
+               <l>But if you be all redy hangd, I leaue you to your iudge:</l>
+               <l>And let the Papiſtꝭ by you take héed, how they doo ſpurn &amp; grudge</l>
+               <l>Againſt God and their lawful Quéene, I would not wiſh the<g ref="char:cmbAbbrStroke">̄</g> run <note place="margin">It is ti<gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note>
+               </l>
+               <l>Leſt that they drink of that ſame cup, as you before haue doon.</l>
+               <l>God be thanked that our Quéene, begins to look about:</l>
+               <l>To draw the ſword out of the ſhethe, to wéed ſuch trators out.</l>
+               <l>Therfore you popiſh traitors all, forſake your Roomiſh ſects:</l>
+               <l>Obey your Quéene like ſubiects true, or els beware your necks.</l>
+               <l>Take héed how you prouoke your Prince, at any time to wrath: <note place="margin">Pro. 20.</note>
+               </l>
+               <l>Whoſe angre is ſaith <hi>Salomon,</hi> the meſſanger of death.</l>
+               <l>The Kings diſpleaſure is euen as, the roaring Lions voice:</l>
+               <l>Then to prouoke the Quéene to wrath, papiſts doo not reioice.</l>
+               <l>Abuſe not the Quéenes lenity, that ſhée to you dooth ſhowe:</l>
+               <l>What ſmall vantage is got therby, ſome papiſts late doo knowe.</l>
+               <l>Conſider what great benefits, we haue of her good grace, <note place="margin">
+                     <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> tiborne tippets.</note>
+               </l>
+               <l>Shée dooth maintain Gods holy woord, to ſhine in euery place.</l>
+               <l>How godly hath ſhe ruled vs, by wiſe councels aduice:</l>
+               <l>Of ſuch a precious iewel you, papiſts knowe not the price.</l>
+               <l>Shée ſéeketh to doo harme to none, but to doo all men good:</l>
+               <l>Yea, to her foes y<hi rend="sup">t</hi> ſought her death, ſhe hath not ſought their blood</l>
+               <l>Til now of late they did rebel, high treaſon to conſpire:</l>
+               <l>Then was it time to cut them of, and hang them ſomewhat hier.</l>
+               <l>To end, God ſaue her maieſtye, from boody papiſtꝭ vain:</l>
+               <l>And Lord ſend her olde <hi>Neſtors</hi> yéeres, w<hi rend="sup">t</hi> vs to liue and reigne.</l>
+               <trailer>FINIS.</trailer>
+               <closer>
+                  <signed>ꝙ Iohn. Cornet. Miniſter.</signed>
+               </closer>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London at the long Shop adioy<g ref="char:EOLhyphen"/>ning vnto Saint Mildreds Churche in the Pultrie, by Iohn Allde.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
